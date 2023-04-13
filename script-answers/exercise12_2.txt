@@ -1,0 +1,11 @@
+PS C:\Windows\system32> docker container run -it ubuntu bash
+root@1537043e8e32:/# cd usr/
+root@1537043e8e32:/usr# cd src/
+root@1537043e8e32:/usr/src# mkdir app
+root@1537043e8e32:/usr/src# cd app/
+root@1537043e8e32:/usr/src/app# touch index.js
+root@1537043e8e32:/usr/src/app# ls
+index.js
+root@1537043e8e32:/usr/src/app# exit
+exit
+PS C:\Windows\system32>

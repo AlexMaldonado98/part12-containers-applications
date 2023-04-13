@@ -1,0 +1,9 @@
+C:\Windows\system32>docker container start -i charming_chatterjee
+root@1537043e8e32:/# cd usr/
+root@1537043e8e32:/usr# cd src/
+root@1537043e8e32:/usr/src# cd app
+root@1537043e8e32:/usr/src/app# nano index.js
+console.log("Hello World")
+press: ctrl + o
+press: enter
+press: ctrl + x
